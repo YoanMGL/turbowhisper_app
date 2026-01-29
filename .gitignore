@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+build/
+dist/
+*.spec
+*.exe
+installer/
+!installer/installer.nsi
+.gemini/
+.antigravity/
